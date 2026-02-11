@@ -1,7 +1,11 @@
 package main
 
+import "fmt"
+
 
 func main() {
+
+	fmt.Println("te vejo nas olindas professor")
 
 // RESPOSTAS PARA AS QUESTÕES:
 
